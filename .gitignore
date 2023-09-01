@@ -22,3 +22,5 @@ go.work
 
 AutomergeProtoChecker
 *.log
+.idea/
+.DS_Store
